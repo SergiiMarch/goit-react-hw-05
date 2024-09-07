@@ -1,0 +1,34 @@
+.container {
+  margin-top: 20px;
+}
+
+.title {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  list-style: none;
+}
+
+.castItem {
+  flex: 1 1 150px;
+  text-align: center;
+}
+
+.actorImage {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.actorName {
+  font-weight: bold;
+}
+
+.actorCharacter {
+  font-style: italic;
+}

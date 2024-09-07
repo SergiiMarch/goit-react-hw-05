@@ -1,0 +1,25 @@
+.container {
+  margin-top: 20px;
+}
+
+.title {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.reviewsList {
+  list-style: none;
+  padding: 0;
+}
+
+.reviewItem {
+  margin-bottom: 15px;
+}
+
+.reviewAuthor {
+  font-weight: bold;
+}
+
+.reviewContent {
+  margin-top: 5px;
+}
